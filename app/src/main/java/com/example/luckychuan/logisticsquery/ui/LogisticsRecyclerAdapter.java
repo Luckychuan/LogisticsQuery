@@ -1,4 +1,4 @@
-package com.example.luckychuan.logisticsquery.view;
+package com.example.luckychuan.logisticsquery.ui;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
